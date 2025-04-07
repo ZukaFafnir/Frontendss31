@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    padding: 30px;
+}
+
+.box-container {
+    display: flex;
+    border: 1px solid black;
+    width: 300px;
+}
+
+.color-box {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}
+
+.purple {
+    background-color: violet;
+}

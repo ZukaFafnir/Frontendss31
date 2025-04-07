@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    padding: 40px;
+}
+
+.light-mode {
+    background-color: white;
+    color: black;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 20px;
+}
